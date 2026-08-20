@@ -1,6 +1,6 @@
 {
   "$schema": "https://opencode.ai/config.json",
   "skills": {
-    "paths": ["./devsecops-portuguese/skills", "./devsecops-english/skills"]
+    "paths": ["./devsecops-waf/skills", "./mikrotik/skills"]
   }
 }
